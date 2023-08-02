@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## 2023-08-02
+- Migrate to Chrome for Testing
+
 ## 2022-05-19
 - Added support for Heroku-22.
 
