@@ -1,7 +1,6 @@
 # heroku-buildpack-google-chrome
 
-This buildpack downloads and installs (headless) Google Chrome from your choice
-of release channels.
+This buildpack downloads and installs (headless) Google Chrome for Testing. Requires [Heroku APT Buildpack](https://github.com/heroku/heroku-buildpack-apt.git) after this buildpack in order to install dependencies.
 
 ## Shims and Command Line Flags
 
